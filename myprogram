@@ -1,0 +1,40 @@
+python3 BA45-stoch-single.py "US" "A" 0
+python3 BA45-stoch-single.py "US" "A" 1
+python3 BA45-stoch-single.py "US" "A" 2
+python3 BA45-stoch-single.py "US" "A" 3
+
+python3 BA45-stoch-single.py "US" "B" 0
+python3 BA45-stoch-single.py "US" "B" 1
+python3 BA45-stoch-single.py "US" "B" 2
+python3 BA45-stoch-single.py "US" "B" 3
+
+python3 BA45-stoch-single.py "US" "E" 0
+python3 BA45-stoch-single.py "US" "E" 1
+python3 BA45-stoch-single.py "US" "E" 2
+python3 BA45-stoch-single.py "US" "E" 3
+
+python3 BA45-stoch-single.py "US" "F" 0
+python3 BA45-stoch-single.py "US" "F" 1
+python3 BA45-stoch-single.py "US" "F" 2
+python3 BA45-stoch-single.py "US" "F" 3
+
+
+python3 BA45-stoch-single.py "TX" "A" 0
+python3 BA45-stoch-single.py "TX" "A" 1
+python3 BA45-stoch-single.py "TX" "A" 2
+python3 BA45-stoch-single.py "TX" "A" 3
+
+python3 BA45-stoch-single.py "TX" "B" 0
+python3 BA45-stoch-single.py "TX" "B" 1
+python3 BA45-stoch-single.py "TX" "B" 2
+python3 BA45-stoch-single.py "TX" "B" 3
+
+python3 BA45-stoch-single.py "TX" "E" 0
+python3 BA45-stoch-single.py "TX" "E" 1
+python3 BA45-stoch-single.py "TX" "E" 2
+python3 BA45-stoch-single.py "TX" "E" 3
+
+python3 BA45-stoch-single.py "TX" "F" 0
+python3 BA45-stoch-single.py "TX" "F" 1
+python3 BA45-stoch-single.py "TX" "F" 2
+python3 BA45-stoch-single.py "TX" "F" 3
